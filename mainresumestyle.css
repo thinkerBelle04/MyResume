@@ -8,12 +8,12 @@
   opacity: 0.8;
 }
 
-a[href="homepage"]{
+a[href="https://github.com/thinkerBelle04/MainProfile"]{
   text-decoration: underline;
   color: black;
 }
 
-a[href="homepage"]:hover{
+a[href="https://github.com/thinkerBelle04/MainProfile"]:hover{
   text-decoration: underline;
 }
 
