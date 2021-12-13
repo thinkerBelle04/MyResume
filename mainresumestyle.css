@@ -1,0 +1,152 @@
+.sidenav{
+  font-family: "Lucida Handwriting", cursive;
+  text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px black;
+  text-transform: uppercase;
+  font-size: 22px;
+  text-align:right;
+  padding: 20px;
+  opacity: 0.8;
+}
+
+a[href="homepage"]{
+  text-decoration: underline;
+  color: black;
+}
+
+a[href="homepage"]:hover{
+  text-decoration: underline;
+}
+
+img{
+  float: left;
+  width: 100px;
+  padding-right: 30px;
+}
+
+
+h1.name{
+  text-transform: uppercase;
+  font-size: 15px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+
+
+p.location{
+  font-size: 12px;
+  font-family: "Times New Roman", Times, serif;
+  color: gray;
+}
+
+
+p.contact{
+  font-size: 10px;
+  font-family: "Times New Roman", Times, serif;
+  color: gray;
+}
+
+p.events{
+  font-size: 12px;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+}
+
+
+a[href="thinkerBell"]{
+  text-decoration: underline;
+  color: hotpink;
+}
+
+a[href="thinkerBell"]:hover{
+  text-decoration: underline;
+  color: white;
+  background-color: hotpink;
+  border-color: white;
+  border-style: solid;
+  border-width: medium;
+  padding: 3px;
+}
+
+p.info{
+  font-size: 13px;
+  font-family: "Arial", sans-serif;
+}
+
+ul.skills{
+  font-size: 11px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: gray;
+}
+
+.edubackground{
+  float: right;
+  margin-right: 470px;
+}
+
+p.program{
+  font-size: 14px;
+}
+
+
+p.school{
+  font-size: 13px;
+  margin: 0px;
+  color: gray;
+}
+
+p.address{
+  font-size: 11px;
+  margin: 0px;
+  color: gray;
+}
+
+p.year{
+  font-size: 10px;
+  margin: 0px;
+  color: gray;
+}
+
+
+
+
+ul.experience{
+  font-size: 11px;
+  font-family: "Arial", sans-serif;
+  margin: 6px;
+  color: gray;
+}
+
+
+h5{
+  margin-bottom: 0px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+p.work{
+  color: gray;
+  font-size: 11px;
+  margin: 0px;
+}
+
+h6{
+  color: black;
+  font-size: 10px;
+  margin: 0px;
+}
+
+
+h3{
+  font-size: 15px;
+  text-decoration: underline;
+  text-transform: uppercase;
+  background-color: black;
+  margin: 0px;
+  padding: 0px;
+  color: white;
+}
+
+
+body{
+  background-color: #F5F5F5;
+}
