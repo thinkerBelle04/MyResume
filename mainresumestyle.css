@@ -52,12 +52,12 @@ p.events{
 }
 
 
-a[href="thinkerBell"]{
+a[href="https://thinkerbelle04.github.io/thinkerBell/"]{
   text-decoration: underline;
   color: hotpink;
 }
 
-a[href="thinkerBell"]:hover{
+a[href="https://thinkerbelle04.github.io/thinkerBell/"]:hover{
   text-decoration: underline;
   color: white;
   background-color: hotpink;
